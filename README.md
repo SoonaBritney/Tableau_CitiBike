@@ -55,7 +55,7 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 ### Challenge Objectives
 1. Deliverable 1
 - Using Panda, create a code to convert the Tripduration datatyle from integer to DateTime format (e.g. 393 sec  ==> MM:SS format 1970-01-01 00:06:33) 
-- [NYC_CitiBike_Challege,ipynb](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
+- [NYC_CitiBike_Challege.ipynb](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 - [Old CSV file](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 - [New CSV file - clould not upload to GitHub, since the file size is 169,667 MB](https://github.com/SoonaBritney/Tableau_CitiBike/edit/main/README.md)
 ![to convert datatye](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_panda.JPG)
