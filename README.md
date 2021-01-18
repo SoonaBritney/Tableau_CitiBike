@@ -1,19 +1,19 @@
 # Tableau_CitiBike
 ![NYC Citibike](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/img_citibike.JPG "NYC CitiBike")
 
-# Table of Contents
-## Project Overview
-## Resources
-## Objectives
-## Summary
-## Challenge Overview
-## Challenge Objectives Challenge Summary
-## Limitations
+## Table of Contents
+### Project Overview
+### Resources
+### Objectives
+### Summary
+### Challenge Overview
+### Challenge Objectives Challenge Summary
+### Limitations
 
-#Project Overview
+# Project Overview
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, we learned how to import, style, and portray data accurately. Then, we created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 
-#Resources
+# Resources
 For this project, we used data from the Citi Bike program in New York City. The data we downloaded was contained in a flat file, a CSV. We went to the Citi Bike System Data page. This link took us to an index of trip data, Download Citi Bike trip history data. We scrolled down the list to 201908-citibike-tripdata.csv.zip, then downloaded and saved on our computer.
 
 #Data Source: 201908-citibike-tripdata.csv, Des Moines Census Data, New York Cesus Data, Des Moines Tourism Website, Citibike, desmoines.bcycle.com, Weather Channel Des Moines, Weather Channel New York, fleximize.com
@@ -68,10 +68,10 @@ dashboard
 In this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
 ## Challenge Objectives
-## Display data professionally and accurately.
-## Professionally style a Tableau story.
-## Utilize previously created Tableau worksheets to create a new story.
-## Create a Tableau story based on starting a bike-sharing company in Des Moines.
+### Display data professionally and accurately.
+### Professionally style a Tableau story.
+### Utilize previously created Tableau worksheets to create a new story.
+### Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
 #Challenge Summary
 For this portion of the presentation, we worked with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.
