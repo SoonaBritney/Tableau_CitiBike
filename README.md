@@ -1,7 +1,7 @@
 # Tableau_CitiBike
 ![NYC Citibike](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/img_citibike.JPG "NYC CitiBike")
 
-### Table of Contents
+## Table of Contents
 1. Project Overview
 2. Resources
 3. Objectives
