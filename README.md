@@ -7,8 +7,9 @@
 3. Objectives
 4. Summary
 5. Challenge Overview
-6. Challenge Objectives Challenge Summary
-7. Limitations
+6. Challenge Objectives 
+7. Challenge Summary
+8. Limitations
 
 ## Project Overview
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, we learned how to import, style, and portray data accurately. Then, we created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
