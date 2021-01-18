@@ -16,8 +16,7 @@ In this module, we worked with data visualization software called Tableau to pre
 ## Resources
 For this project, we used data from the Citi Bike program in New York City. The data we downloaded was contained in a flat file, a CSV. We went to the Citi Bike System Data page. This link took us to an index of trip data, Download Citi Bike trip history data. We scrolled down the list to 201908-citibike-tripdata.csv.zip, then downloaded and saved on our computer.
 
-1. Data Source: 201908-citibike-tripdata.csv, Des Moines Census Data, New York Cesus Data, Des Moines Tourism Website, Citibike, desmoines.bcycle.com, Weather Channel Des Moines, Weather Channel New York, fleximize.com
-
+1. Data Source: [201908-citibike-tripdata.csv](https://www.citibikenyc.com/system-data)
 2. Software: Tableau, VS Code
 
 ## Objectives
