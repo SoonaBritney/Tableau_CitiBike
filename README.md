@@ -90,7 +90,7 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 --A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
 --A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
 
-3.Deliverable 3:
+3. Deliverable 3:
 - Utilize previously created Tableau worksheets to create a new story.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
