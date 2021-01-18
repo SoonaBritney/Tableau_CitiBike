@@ -58,6 +58,7 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 [NYC_CitiBike_Challege,ipynb](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 [Old CSV file](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 [New CSV file - clould not upload to GitHub, since the file size is 169,667 MB](https://github.com/SoonaBritney/Tableau_CitiBike/edit/main/README.md)
+![to convert datatye](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_panda.JPG)
 
 2. Delieveble 2
 - Import the new CSV (201908-citibike-tripdata_datetime.CSV) into Tableau 
