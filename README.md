@@ -67,10 +67,12 @@ dashboard
 In this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
 ### Challenge Objectives
-1. Display data professionally and accurately.
-2. Professionally style a Tableau story.
-3. Utilize previously created Tableau worksheets to create a new story.
-4. Create a Tableau story based on starting a bike-sharing company in Des Moines.
+1. Using Panda, we modified the data source CSV file, TripDuration colume as DateTime format from string (e.g. 393 sec  ==> MM:SS format 06:33.9) 
+2. Imprt the data info Tableau 
+3. Display data professionally and accurately.
+4. Professionally style a Tableau story.
+5. Utilize previously created Tableau worksheets to create a new story.
+6. Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
 ## Challenge Summary
 For this portion of the presentation, we worked with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.
