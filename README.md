@@ -66,12 +66,24 @@ dashboard
 In this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
 ### Challenge Objectives
-1. Using Panda, we modified the data source CSV file, TripDuration colume as DateTime format from string (e.g. 393 sec  ==> MM:SS format 06:33.9) 
-2. Imprt the data info Tableau 
-3. Display data professionally and accurately.
-4. Professionally style a Tableau story.
-5. Utilize previously created Tableau worksheets to create a new story.
-6. Create a Tableau story based on starting a bike-sharing company in Des Moines.
+1. Deliverable 1
+- Using Panda, create a code to convert the Tripduration datatyle from integer to DateTime format (e.g. 393 sec  ==> MM:SS format 1970-01-01 00:06:33) 
+[NYC_CitiBike_Challege,ipynb](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
+[Old CSV file](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
+[New CSV file - clould not upload to GitHub, since the file size is 169,667 MB](https://github.com/SoonaBritney/Tableau_CitiBike/edit/main/README.md)
+
+2. Delieveble 2
+- Import the new CSV (201908-citibike-tripdata_datetime.CSV) into Tableau 
+- professionally and accurately visualize the worksheets in Tableau  
+--There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+--There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+--A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
+--A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+--A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+
+3.Deliverable 3:
+- Utilize previously created Tableau worksheets to create a new story.
+- Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
 ## Challenge Summary
 For this portion of the presentation, we worked with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.
