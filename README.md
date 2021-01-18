@@ -65,6 +65,15 @@ dashboard
 ## Challenge Overview
 In this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
 
+### Challenge Background:
+Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+
+For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
+
+1. Show the length of time that bikes are checked out for all riders and genders
+2. Show the number of bike trips for all riders and genders for each hour of each day of the week
+3. Show the number of bike trips for each type of user and gender for each day of the week.
+
 ### Challenge Objectives
 1. Deliverable 1
 - Using Panda, create a code to convert the Tripduration datatyle from integer to DateTime format (e.g. 393 sec  ==> MM:SS format 1970-01-01 00:06:33) 
@@ -85,7 +94,11 @@ In this challenge, we put together our final presentation and analysis for inves
 - Utilize previously created Tableau worksheets to create a new story.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
+
 ## Challenge Summary
+
+[Here is the live Demo]:
+
 For this portion of the presentation, we worked with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.
 
 Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
