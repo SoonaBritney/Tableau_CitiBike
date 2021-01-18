@@ -63,11 +63,12 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 2. Delieveble 2
 - Import the new CSV (201908-citibike-tripdata_datetime.CSV) into Tableau 
 - professionally and accurately visualize the worksheets in Tableau  
-..* There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
-..* There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
-..* A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
-..* A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
-..* A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+- There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+- There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+- A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
+- A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+- A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+
 
 3. Deliverable 3:
 - Utilize previously created Tableau worksheets to create a new story.
