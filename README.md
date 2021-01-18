@@ -1,5 +1,5 @@
 # Tableau_CitiBike
-(https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/img_citibike.JPG "NYC CitiBike")
+![NYC Citibike](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/img_citibike.JPG "NYC CitiBike")
 
 Table of Contents
 Project Overview
