@@ -48,10 +48,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
 
-
-3. Deliverable 3:
-- Utilize previously created Tableau worksheets to create a new story.
-- Create a Tableau story based on starting a bike-sharing company in Des Moines.
+![_Checkout_Times_for_Users](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checkout_Times_for_Users.JPG)
 
 ![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
@@ -67,9 +64,16 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![trips_by_weekday_for_each_hour](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_weekday_for_each_hour.JPG)
 
+
+3. Deliverable 3:
+- Utilize previously created Tableau worksheets to create a new story.
+- Create a Tableau story based on starting a bike-sharing company in Des Moines.
+
+
+
 ![NYC CiBike Story Conclusion](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_story_conclusion.JPG)
 
-![]()
+
 
 ## Challenge Summary
 
