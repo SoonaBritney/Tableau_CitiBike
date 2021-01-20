@@ -53,6 +53,23 @@ Now that we've gotten a good idea of how to create our story, there is still som
 - Utilize previously created Tableau worksheets to create a new story.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
+![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
+
+![Average_Trip_Duration](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Average_Trip_Duration.JPG)
+
+![CheckOut_Time_Per_Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_CheckOut_Time_Per_Gender.JPG)
+
+![_Top_Bike_Station](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Top_Bike_Station.JPG)
+
+![User_Trips_by_Weekday](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_User_Trips_by_Weekday.JPG)
+
+![trips_by_gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_gender.JPG)
+
+![trips_by_weekday_for_each_hour](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_weekday_for_each_hour.JPG)
+
+![NYC CiBike Story Conclusion](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_story_conclusion.JPG)
+
+![]()
 
 ## Challenge Summary
 
