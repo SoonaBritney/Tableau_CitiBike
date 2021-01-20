@@ -81,7 +81,7 @@ For this portion of the presentation, I analyzed the data to answer core questio
 
 Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
 
-LIVE DEMO: Our proposal can be found on tableau public
+
 
 
 
