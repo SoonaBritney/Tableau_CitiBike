@@ -37,10 +37,12 @@ Now that we've gotten a good idea of how to create our story, there is still som
 - [NYC_CitiBike_Challege.ipynb](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 - [Old CSV file](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/NYC_CitiBike_Challenge.ipynb)
 - [New CSV file - clould not upload to GitHub, since the file size is 169,667 MB](https://github.com/SoonaBritney/Tableau_CitiBike/edit/main/README.md)
-![to convert datatye](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_panda.JPG)
+![to convert datatye](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_panda_new.JPG)
 
+ 
 2. Delieveble 2
-- Import the new CSV (201908-citibike-tripdata_datetime.CSV) into Tableau 
+- Per datetime change above, we generated the new CSV file.
+- Import the new CSV (201908-citibike-tripdata_Jan312021.CSV) into Tableau 
 - professionally and accurately visualize the worksheets in Tableau  
 - There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
 - There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
@@ -82,6 +84,9 @@ For this portion of the presentation, I analyzed the data to answer core questio
 Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
 
 
+## Live Demo
+I built the Tableau Public version CitiBike_Project Stoye, and Please see the below demo.
 
+*SOONA'S DEMO: [SOONA'S DEMO](https://public.tableau.com/profile/soona.britney.cheon#!/vizhome/Citibikes_Challenge_Jan31_2021/CitibikesStory?publish=yes)*
 
 
