@@ -83,19 +83,20 @@ Here is the Live Demo of the Citibike Project Tableau Story & Sumamry Dashboard.
 
 ### Among the bike users, most of customers rae registred as member, but casually use the Citibikes. Male customers are more dominent than female customers, and the during weekdays, early moring (to commute to work) and early afternoon (to commute home) were the busiest hours. 
 
-1). August Peak Riding Hours - is again consistently between 7am - 8am, and 5pm - 7pm is the busienst hours for the citibike customers.
-2). Checkout Times for Users - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
-3). Top Bike Stations - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
-4). Checkout Time per Gender - the busiest hours are gain 7am-8am and 5pm-7pm, and the gender ditribution is (1) Unknown (2) Male and (3) Female. The reason is that many customers did noy specify their gender, we do not have the accurate data. Althouhg, male customer swee more than  female customers.
-5). Trips by Weekday for Each Hour - Again, during weekdays, 7am-8am and 5pm-7pm were the busiest hours customer used the bikes for their commute.
-6). User Trips by Gender by Weekdays - During weekdays, (1) Unknown (2) Male and (3) Female customers used the citibikes.
+- 1). August Peak Riding Hours - is again consistently between 7am - 8am, and 5pm - 7pm is the busienst hours for the citibike customers.
+- 2). Checkout Times for Users - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
+- 3). Top Bike Stations - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
+- 4). Checkout Time per Gender - the busiest hours are gain 7am-8am and 5pm-7pm, and the gender ditribution is: (1) Unknown (2) Male and (3) Female. 
+ -- The reason is that many customers did noy specify their gender, we do not have the accurate data. Althouhg, male customer swee more than  female customers.
+- 5). Trips by Weekday for Each Hour - Again, during weekdays, 7am-8am and 5pm-7pm were the busiest hours customer used the bikes for their commute.
+- 6). User Trips by Gender by Weekdays - During weekdays, (1) Unknown (2) Male and (3) Female customers used the citibikes.
 
 Conclusion:
 Since NYC Citibike is very successful, we shoudl expand the citibikes business in Des Moins. The startegy is, most of customers use the bikes during rush hours, thus 
-(1) We should have enough number of bikes, 
-(2) we should have the bikes in various stations near by city
-(3) and make it affortable to sue
-(4) and make it quick pay via credit card or apple pay to save busy commuters time. 
+-(1) We should have enough number of bikes, 
+-(2) we should have the bikes in various stations near by city
+-(3) and make it affortable to use
+-(4) and make it quick pay via credit card or apple pay to save busy commuters time. 
 
 
 ## Challenge Summary
@@ -105,9 +106,10 @@ For this portion of the presentation, I analyzed the data to answer core questio
 Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
 
 
-## Live Demo
+## Live Demo ##
+
 I built the Tableau Public version CitiBike_Project Stoye, and Please see the below demo.
 
-*SOONA'S DEMO: [SOONA'S DEMO](https://public.tableau.com/profile/soona.britney.cheon#!/vizhome/Citibikes_Challenge_Jan31_2021/CitibikesStory?publish=yes)*
+*SOONA'S TABLEAU PUBLIC CITIBIKE PROJECT DEMO: [SOONA'S DEMO](https://public.tableau.com/profile/soona.britney.cheon#!/vizhome/Citibikes_Challenge_Jan31_2021/CitibikesStory?publish=yes)*
 
 
