@@ -57,8 +57,6 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![Checkout_Times_By_Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checckout_Times_By_Gender.JPG)
 
-![Checkout_Times_Per Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checkout_Times_By_Gender.JPG)
-
 ![User_Trips_by_Weekday](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_User_Trips_by_Weekday.JPG)
 
 ![trips_by_gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_gender.JPG)
@@ -67,11 +65,11 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
-![Average_Trip_Duration](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Average_Trip_Duration.JPG)
+![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
-![CheckOut_Time_Per_Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_CheckOut_Time_Per_Gender.JPG)
+![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
-![_Top_Bike_Station](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Top_Bike_Station.JPG)
+![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
 
 
