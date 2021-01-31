@@ -50,11 +50,18 @@ Now that we've gotten a good idea of how to create our story, there is still som
 - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
 
-![Citibike Tableau Public Story] (https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Tableau_Public_Citibike_Story.JPG)
+
+![Capture_Tableau_Public_Citibike_Story] (https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Tableau_Public_Citibike_Story.JPG)
 
 ![Checkout_Times_for_Users](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checkout_Times_for_Users.JPG)
 
-![Checkout_Times_Per Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checckout_Times_By_Gender.JPG)
+![Checkout_Times_Per Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Checkout_Times_By_Gender.JPG)
+
+![User_Trips_by_Weekday](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_User_Trips_by_Weekday.JPG)
+
+![trips_by_gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_gender.JPG)
+
+![trips_by_weekday_for_each_hour](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_weekday_for_each_hour.JPG)
 
 ![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
@@ -64,11 +71,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![_Top_Bike_Station](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Top_Bike_Station.JPG)
 
-![User_Trips_by_Weekday](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_User_Trips_by_Weekday.JPG)
 
-![trips_by_gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_gender.JPG)
-
-![trips_by_weekday_for_each_hour](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_trips_by_weekday_for_each_hour.JPG)
 
 
 3. Deliverable 3:
