@@ -69,6 +69,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![_Number_Rides_Per_Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Number_Rides_Per_Gender.JPG)
 
+![top ending location](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_top_ending_location.JPG)
 
 
 3. Deliverable 3:
