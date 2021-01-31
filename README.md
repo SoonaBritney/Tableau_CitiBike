@@ -75,10 +75,27 @@ Now that we've gotten a good idea of how to create our story, there is still som
 - Utilize previously created Tableau worksheets to create a new story.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
+Here is the Live Demo of the Citibike Project Tableau Story & Sumamry Dashboard.
 
+### TABLEAU PUBLIC - LIVE DEMO: [LIVE DEMO](https://public.tableau.com/profile/soona.britney.cheon#!/vizhome/Citibikes_Challenge_Jan31_2021/CitibikesStory)###
 
-![NYC CiBike Story Conclusion](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_story_conclusion.JPG)
+## Citibike Des Moins Project Conclusion:
 
+### Among the bike users, most of customers rae registred as member, but casually use the Citibikes. Male customers are more dominent than female customers, and the during weekdays, early moring (to commute to work) and early afternoon (to commute home) were the busiest hours. 
+
+1). August Peak Riding Hours - is again consistently between 7am - 8am, and 5pm - 7pm is the busienst hours for the citibike customers.
+2). Checkout Times for Users - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
+3). Top Bike Stations - Customers check out Citibikes from very broad area of NYC, which customers use the bikes from near by stations to NYC.
+4). Checkout Time per Gender - the busiest hours are gain 7am-8am and 5pm-7pm, and the gender ditribution is (1) Unknown (2) Male and (3) Female. The reason is that many customers did noy specify their gender, we do not have the accurate data. Althouhg, male customer swee more than  female customers.
+5). Trips by Weekday for Each Hour - Again, during weekdays, 7am-8am and 5pm-7pm were the busiest hours customer used the bikes for their commute.
+6). User Trips by Gender by Weekdays - During weekdays, (1) Unknown (2) Male and (3) Female customers used the citibikes.
+
+Conclusion:
+Since NYC Citibike is very successful, we shoudl expand the citibikes business in Des Moins. The startegy is, most of customers use the bikes during rush hours, thus 
+(1) We should have enough number of bikes, 
+(2) we should have the bikes in various stations near by city
+(3) and make it affortable to sue
+(4) and make it quick pay via credit card or apple pay to save busy commuters time. 
 
 
 ## Challenge Summary
