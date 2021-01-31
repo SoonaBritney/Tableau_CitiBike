@@ -65,12 +65,9 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
 
-![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
+![Bike repair](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Bike_Repair.JPG)
 
-![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
-
-![August_Peak_Riding_Hours](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_August_Peak_Riding_Hours.JPG)
-
+![_Number_Rides_Per_Gender](https://github.com/SoonaBritney/Tableau_CitiBike/blob/main/Capture_Number_Rides_Per_Gender.JPG)
 
 
 
